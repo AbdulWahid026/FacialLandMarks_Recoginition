@@ -1,6 +1,5 @@
 # __Face Landmarks Detection__
 
-![Inference on few celebraties](awesome_outputs.webp)
 
 ## __Data preprocessing__
 
@@ -202,17 +201,3 @@ Estimated Total Size (MB): 451.12
 3. Learning Rate  : 0.0008
 4. Epochs         : 30
 
-## __Training progress__
-
-![Progress of the model thoughout the training](progress.gif)
-
-## Final Results
-![Final outputs of the model](output.gif)
-
-## [__Read Full Article__](https://medium.com/swlh/facial-landmarks-detection-using-xception-net-908b8b80f758)
-
-## __Watch the video__
-
-[![Watch the video here](https://img.youtube.com/vi/Q8oJxOSRMSw/0.jpg)](https://www.youtube.com/watch?v=Q8oJxOSRMSw)
-
-# Author - Rishik Mourya
